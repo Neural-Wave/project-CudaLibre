@@ -43,4 +43,10 @@ To train the model, use the `run.sh` script. This script will start training wit
 
 ```bash
 bash run.sh
+```
+
+Alternatively, you can run the training script directly:
+```bash
+python train.py --data_config_path "dataset/processed_augmented_split.json" --batch_size 32 --num_epochs 30 --learning_rate 0.0001 --checkpoint_path "checkpoints/efficient_net"
+```
 
