@@ -50,3 +50,9 @@ Alternatively, you can run the training script directly:
 python train.py --data_config_path "dataset/processed_augmented_split.json" --batch_size 32 --num_epochs 30 --learning_rate 0.0001 --checkpoint_path "checkpoints/efficient_net"
 ```
 
+## Testing the Model
+
+The testing script evaluates the trained model on a validation dataset. You can run the test script as follows:
+```bash
+python test.py --data_config_path "dataset/split.json" --batch_size 16 --model_path "checkpoints/efficient_net/20241027_083453/model_epoch_10.pt"
+```
