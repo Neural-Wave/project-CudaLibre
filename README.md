@@ -35,7 +35,7 @@ The project relies on the following dependencies:
 To install all dependencies, you can use:
 ```bash
 pip install -r requirements.txt
-
+```
 ## Running the Code
 
 ### Training the Model
