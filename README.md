@@ -35,3 +35,12 @@ The project relies on the following dependencies:
 To install all dependencies, you can use:
 ```bash
 pip install -r requirements.txt
+
+## Running the Code
+
+### Training the Model
+To train the model, use the `run.sh` script. This script will start training with specified parameters and save the best model to the checkpoints directory.
+
+```bash
+bash run.sh
+
