@@ -1,0 +1,4686 @@
+{
+    "bad_light/img_03229.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01258.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03668.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04951.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04534.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04845.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04616.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01876.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04337.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00538.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00267.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01121.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04510.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02105.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01193.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03727.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04705.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01282.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00309.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02726.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04936.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04755.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00570.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05045.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00285.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01620.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04003.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01219.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01818.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00408.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01731.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01910.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03779.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03851.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04709.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01276.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03324.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00329.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00166.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00934.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03937.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00427.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04244.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01454.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02496.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03017.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05003.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03671.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01161.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00193.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00879.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03761.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03481.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03379.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04319.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03295.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01436.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00883.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04701.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04417.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04686.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01761.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03475.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03250.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02397.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01634.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03629.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04655.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04456.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04160.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02868.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04724.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00936.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01022.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02301.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03887.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04447.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00665.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02932.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05199.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04731.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03606.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04089.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02133.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04925.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04817.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04291.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02594.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03948.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03993.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02603.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02471.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03855.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02041.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04799.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04082.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00986.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00027.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04748.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04590.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02160.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03518.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04567.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03162.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03183.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02430.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01205.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01257.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05268.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01371.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00177.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05085.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04111.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02677.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05307.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02064.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03399.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01106.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01809.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01047.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03996.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04253.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01681.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01475.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03417.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03590.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05101.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04508.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02859.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02300.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03022.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01773.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03492.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04335.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01320.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03707.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03524.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01518.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00621.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00999.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02228.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02987.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01846.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00606.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02560.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00924.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04601.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03276.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02721.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05192.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01828.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02191.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03287.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04078.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00641.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01387.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01074.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00981.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01996.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01623.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04562.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03964.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05204.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04396.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04721.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01171.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02067.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04054.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01512.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04496.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04700.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02221.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02637.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03646.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04154.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02204.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04532.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02078.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03848.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04100.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00117.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02558.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04548.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04168.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04835.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03118.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02556.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00228.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00224.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02941.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00451.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03807.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04973.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00396.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00203.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03419.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02812.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01128.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01019.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02629.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05128.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05133.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02983.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04735.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02429.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02085.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03594.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03769.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03478.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04933.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04138.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01643.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05316.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00808.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00072.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00653.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02302.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04183.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03086.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01073.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04040.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04266.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02547.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02024.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00133.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03494.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00040.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04492.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03733.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04499.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00532.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00841.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00384.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01905.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00560.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01489.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02178.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00993.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03992.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04871.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02881.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01077.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03493.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04493.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02654.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02358.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02722.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04583.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01652.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03216.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03495.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04073.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03110.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01506.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03651.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02290.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01729.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02120.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04475.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03571.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00956.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05264.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01845.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04226.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02125.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01453.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02901.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02670.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02035.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02719.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02454.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03525.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03406.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01516.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02148.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03273.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00324.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01026.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04128.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04299.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03604.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01044.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05058.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04381.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04959.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05041.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00822.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00103.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00926.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01974.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01759.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01978.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01492.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00737.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03541.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02599.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01525.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01618.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04188.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01422.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04149.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01130.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02894.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00627.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01481.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02840.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04427.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00033.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05175.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01894.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05118.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00521.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02780.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04852.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04921.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03318.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00064.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04662.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03718.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04177.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04589.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01184.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00125.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03673.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00398.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02995.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01631.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00099.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04485.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04333.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05310.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04175.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01717.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00031.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01367.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02052.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01552.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03141.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02758.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00798.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02070.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03885.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02792.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00736.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04148.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00862.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03783.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04137.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04015.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02572.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04702.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02938.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02201.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04423.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01998.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04874.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00671.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03694.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03058.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04557.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03557.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03484.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00871.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01254.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04157.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00054.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03781.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01570.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04062.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04788.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02073.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00485.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02604.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01581.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00421.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00509.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03536.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01471.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03076.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00039.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00877.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02605.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00689.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04582.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00062.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02203.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02609.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02606.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01187.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01823.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05263.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00777.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04477.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00976.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03879.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05306.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01253.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03236.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02612.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05248.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05279.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04264.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01724.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02966.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05241.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01655.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03988.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04109.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01240.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04125.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01424.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02460.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00998.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01425.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02121.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04593.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02169.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01221.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02006.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04596.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00175.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01578.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02936.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00660.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02902.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02976.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03067.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01484.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03348.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02168.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05323.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05240.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00523.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02420.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04737.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01001.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00391.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04245.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02231.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00073.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01069.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03777.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01397.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04745.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03859.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00437.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03136.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05308.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02465.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05330.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04863.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00589.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03020.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00210.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01726.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01569.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00162.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05287.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02031.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05177.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04135.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01015.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02000.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03519.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02763.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03275.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01040.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01413.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02918.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04834.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05069.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00383.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01893.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05136.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04315.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04966.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01629.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00127.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05080.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02981.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01553.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01972.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01647.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03111.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00293.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04490.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04671.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03810.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05121.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03837.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01610.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00710.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03717.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05244.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01635.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02422.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03119.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02583.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00967.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01703.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02739.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01087.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00119.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04216.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04637.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03174.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03990.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01762.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00393.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02298.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04321.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00312.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01530.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02392.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00545.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03503.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03602.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02366.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04330.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00781.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02002.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01819.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00918.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04116.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01772.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02989.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03836.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02827.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01192.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04142.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03960.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02588.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01756.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04775.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02326.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04521.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02385.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02800.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00389.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04372.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00011.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03627.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01524.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02905.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00536.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01957.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03923.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02752.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03863.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03767.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01169.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00598.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04180.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03403.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02811.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02283.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03218.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03867.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03360.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01328.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04677.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02768.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04222.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00549.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02113.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02711.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05266.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00503.jpg": [
+        "bars_only",
+        "aligned"
+    ],
+    "bad_light/img_00271.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01766.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02491.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03656.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04254.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02769.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00891.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00161.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01243.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02890.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02110.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01305.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02068.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00814.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01816.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02215.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03341.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01025.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01062.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02080.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03920.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03362.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01297.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02578.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00315.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03531.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01943.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02900.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02198.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04101.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00699.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03956.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00036.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01661.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01542.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04108.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01686.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01429.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03562.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02111.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01800.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03051.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05281.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00609.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00512.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05049.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05288.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03296.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02411.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05055.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02931.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03204.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03981.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01418.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03380.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03254.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04014.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01013.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02082.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00478.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01052.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01680.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03094.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01065.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02164.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02667.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05082.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05172.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02718.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01502.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02088.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02192.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00975.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02852.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03444.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03930.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02515.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01381.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04847.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05099.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00830.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03823.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02095.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05148.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05131.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00187.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01566.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04221.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02660.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03871.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04594.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01781.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00360.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00498.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04433.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04728.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00535.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01428.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03702.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00302.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01104.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00893.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00272.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01718.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01871.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03736.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02616.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03048.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00266.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02049.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04556.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01421.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04636.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02713.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00580.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04298.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01795.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02489.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01693.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03490.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00157.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00151.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03591.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02453.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03616.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01361.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02018.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01907.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00979.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04729.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01856.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00208.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00289.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03663.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05087.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00094.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00032.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01324.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03089.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00853.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03153.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04027.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04621.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00675.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00356.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03317.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04930.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05063.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00672.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04238.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04931.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04891.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00171.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03350.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05037.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03303.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03075.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03043.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02273.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01160.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04442.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01295.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04320.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04511.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04194.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00098.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04716.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04440.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02220.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04970.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04397.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03643.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02838.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04654.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01884.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02416.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00148.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04839.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00303.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00876.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04022.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02172.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00365.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05261.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00856.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04714.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00093.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01843.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03700.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01679.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00898.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03648.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02783.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04849.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04848.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05312.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01274.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00158.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03387.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04635.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00885.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04488.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00163.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00759.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02554.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02212.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02361.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05027.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03328.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03160.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03753.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05144.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00513.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03511.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03650.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04836.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00413.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00226.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00996.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05130.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04317.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03064.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05272.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05252.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00643.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03184.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04049.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04630.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03502.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00917.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01895.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03371.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00305.jpg": [
+        "bars_only",
+        "aligned"
+    ],
+    "bad_light/img_00392.jpg": [
+        "bars_only",
+        "aligned"
+    ],
+    "bad_light/img_05017.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01172.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02512.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01144.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03796.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01571.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05289.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04801.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02141.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03365.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04045.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02620.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00317.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00590.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04163.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00980.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00200.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01682.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01339.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05303.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04760.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00617.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04911.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00021.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05074.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01619.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04899.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01200.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00908.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00730.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05207.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02855.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04236.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01259.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03000.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03553.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02162.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04642.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03703.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00843.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02165.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02116.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02737.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04609.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00217.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01875.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01600.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03395.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00625.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05025.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00722.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01162.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00899.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05125.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00043.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01983.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03352.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03854.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02154.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00363.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00241.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02732.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02483.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01325.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01607.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04494.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02014.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00442.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04336.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02490.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04096.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01399.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02257.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05190.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01522.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03538.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02159.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02538.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02748.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04703.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03412.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02570.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02259.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00475.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00581.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04989.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00440.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03095.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00250.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02189.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05176.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02407.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01917.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01182.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02716.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02865.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04185.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01174.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03566.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00937.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05318.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02990.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03514.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01877.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02163.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02345.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04577.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03077.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04861.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01497.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03868.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03586.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03749.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00085.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01740.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00319.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04667.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04943.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04472.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04985.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00634.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03523.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02590.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04152.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01638.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00207.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05324.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01053.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00144.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04479.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02920.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04031.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03243.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01767.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02861.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00820.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02973.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00326.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00434.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03447.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03175.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02009.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00353.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00423.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00546.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03959.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04290.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05052.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00989.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03512.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03577.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01415.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04021.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02600.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05274.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03286.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02473.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05079.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00987.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04997.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00249.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04862.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03098.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00724.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01102.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00418.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01173.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02370.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03611.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01186.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04733.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03607.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03942.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03572.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04624.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01824.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03950.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00248.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01920.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02668.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04738.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02149.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00156.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00376.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01151.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02576.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04373.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00763.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01178.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04876.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02291.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01965.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01550.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04431.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01860.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02751.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00762.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00283.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02322.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01997.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03708.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04439.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00409.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03452.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03619.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03506.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01463.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02202.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03757.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02998.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02955.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03179.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_04461.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00610.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03346.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04991.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00346.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03071.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02644.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01293.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05050.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00854.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05103.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00268.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01494.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01688.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03041.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02272.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02887.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02242.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03122.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00454.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01815.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03101.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01366.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05296.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03746.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03821.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03347.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04483.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04334.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02461.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00783.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03373.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00855.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02102.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00078.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02745.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05073.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00204.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_01119.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00257.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02993.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00325.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05219.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05019.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03193.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01303.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02761.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04829.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00063.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00410.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01487.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00807.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00902.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04563.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01862.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04853.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02762.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02693.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00517.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00432.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04679.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01209.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02063.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04120.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01954.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04719.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01801.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04308.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00338.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03413.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00622.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01925.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00944.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01005.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03370.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05076.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05078.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02177.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01796.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03498.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_05294.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05166.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02240.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05210.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03608.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01374.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_05154.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00477.jpg": [
+        "bg_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04407.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00727.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03180.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_05034.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01950.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03344.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04902.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01323.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02821.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03546.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03156.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00768.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03008.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04787.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01579.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01912.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04174.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02750.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04764.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03915.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_04769.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03214.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00723.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02004.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02874.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00809.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_03534.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02552.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00090.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04954.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02285.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00867.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01473.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02265.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04603.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02964.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00928.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03496.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00663.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_01747.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02396.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02627.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04147.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03575.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03876.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02828.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00666.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01671.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00638.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01904.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03361.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04545.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04907.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00422.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01985.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00216.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_00411.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_00516.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03638.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_01029.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02630.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_03500.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_03466.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_02230.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02406.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_02691.jpg": [
+        "bar_and_stop",
+        "aligned"
+    ],
+    "bad_light/img_04164.jpg": [
+        "bars_only",
+        "not_aligned"
+    ],
+    "bad_light/img_02959.jpg": [
+        "bar_and_stop",
+        "not_aligned"
+    ],
+    "bad_light/img_00221.jpg": [
+        "bars_only",
+        "not_aligned"
+    ]
+}
